@@ -29,6 +29,7 @@
 		43743C4528D5D3470063F04B /* BookingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43743C4428D5D3470063F04B /* BookingView.swift */; };
 		438AED6728D83B1B006121AE /* LargeButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 438AED6628D83B1B006121AE /* LargeButton.swift */; };
 		438AED6928D83D61006121AE /* SeatView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 438AED6828D83D61006121AE /* SeatView.swift */; };
+		438BEBBF28E42606006A28C4 /* DancingText.swift in Sources */ = {isa = PBXBuildFile; fileRef = 438BEBBE28E42606006A28C4 /* DancingText.swift */; };
 		438BEBF428D598AD0013A038 /* TicketView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 438BEBF328D598AD0013A038 /* TicketView.swift */; };
 		438BEBF728D59ED60013A038 /* Ticket.swift in Sources */ = {isa = PBXBuildFile; fileRef = 438BEBF628D59ED60013A038 /* Ticket.swift */; };
 /* End PBXBuildFile section */
@@ -57,6 +58,7 @@
 		43743C4428D5D3470063F04B /* BookingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = BookingView.swift; path = MovieBooking/UI/BookingView.swift; sourceTree = SOURCE_ROOT; };
 		438AED6628D83B1B006121AE /* LargeButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LargeButton.swift; sourceTree = "<group>"; };
 		438AED6828D83D61006121AE /* SeatView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = SeatView.swift; path = MovieBooking/Buttons/SeatView.swift; sourceTree = SOURCE_ROOT; };
+		438BEBBE28E42606006A28C4 /* DancingText.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DancingText.swift; sourceTree = "<group>"; };
 		438BEBF328D598AD0013A038 /* TicketView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TicketView.swift; sourceTree = SOURCE_ROOT; };
 		438BEBF628D59ED60013A038 /* Ticket.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Ticket.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -154,6 +156,7 @@
 				43743C3C28D5BF890063F04B /* CustomTabBar.swift */,
 				43743C4028D5CC300063F04B /* CustomSearchBar.swift */,
 				43743C4228D5CED50063F04B /* ScrollSection.swift */,
+				438BEBBE28E42606006A28C4 /* DancingText.swift */,
 			);
 			path = UI;
 			sourceTree = "<group>";
@@ -256,6 +259,7 @@
 				33D8599728AC1E4D00C842CF /* CircleBackground.swift in Sources */,
 				43743C4128D5CC300063F04B /* CustomSearchBar.swift in Sources */,
 				33D8597C28ABDDCB00C842CF /* MovieBookingApp.swift in Sources */,
+				438BEBBF28E42606006A28C4 /* DancingText.swift in Sources */,
 				33D8599428AC17A200C842CF /* DateButton.swift in Sources */,
 				43743C3928D5A9110063F04B /* Tickets.swift in Sources */,
 				43743C4328D5CED50063F04B /* ScrollSection.swift in Sources */,

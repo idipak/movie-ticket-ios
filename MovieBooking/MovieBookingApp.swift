@@ -7,6 +7,8 @@
 
 import SwiftUI
 
+//Course link: https://www.youtube.com/watch?v=EkcKeGQm3_U
+
 @main
 struct MovieBookingApp: App {
     var body: some Scene {
